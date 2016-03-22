@@ -1,0 +1,97 @@
+body {
+    font-size: 15px !important;
+}
+
+.post_region_box {
+    background: white;
+    -moz-box-shadow: none !important;
+    -khtml-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    -moz-border-radius: 0 !important;
+    -webkit-border-radius: 0 !important;
+    border-radius: 0 !important;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    position: relative;
+    margin: 10px 0px 0px 0px !important;
+}
+
+/* http://callmenick.com/post/stylish-css-buttons */
+.btn {
+    margin: 0 10px 0 0 !important;
+    font-size: 13px !important;
+    line-height: 1.8 !important;
+    appearance: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    background-clip: border-box !important;
+    border: none !important;
+}
+
+.btn-primary {
+    background: none !important;
+    background-color: #6496c8 !important;
+    text-shadow: -1px 1px #417cb8 !important;
+    border: none !important;
+}
+
+.btn-primary:hover,
+.btn-primary.hover {
+    background-color: #346392 !important;
+    text-shadow: -1px 1px #27496d !important;
+}
+
+.post_region_box .post_region_content .clarifying_discussion .discussion_content {
+    font-size: 15px !important;
+}
+
+pre {
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 0px !important;
+}
+
+pre.prettyprint {
+    -moz-box-shadow: none !important;
+    -khtml-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    border: none !important;
+    background: #EAEAEA !important;
+    -moz-border-radius: 0px !important;
+    -webkit-border-radius: 0px !important;
+    border-radius: 0px !important;
+}
+
+.post_region_box .post_region_content .clarifying_discussion {
+    background: #FFFFFF !important;
+    border-bottom: 1px solid #eee !important;
+}
+
+.post_region_box .post_region_content .clarifying_discussion {
+    background: #FFFFFF !important;
+    border-bottom: 1px solid #eee !important;
+}
+
+.post_region_box .discussion_replies {
+    background: #FFFFFF !important;
+}
+
+.post_region_box .discussion_replies {
+    background: #FFFFFF !important;
+}
+
+.discussion_text {
+    border-left:   3px solid #eee !important;
+    padding-left:  5px;
+}
+
+.top_bar .nav > li > a {
+    font-size: 13px !important;
+    text-shadow: none;
+}
+
+.page_feed .page_feed_bucket_header {
+    background: #f3f3f4 !important;
+}
